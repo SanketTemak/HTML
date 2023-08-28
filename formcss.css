@@ -1,0 +1,31 @@
+.tittle
+{ color: coral; font-weight: bold;font-family: 'Times New Roman', Times, serif; padding: auto; border: 15px;
+    border: solid rgb(196, 49, 49);padding-left: 10px;padding-top: 10px;padding-bottom: 10px;
+    /* or you want same thig ou can direact write  */
+    padding: 10px;min-width: 300px;text-align: center;
+}
+
+.input{
+    color: black; font-style: italic;font-weight: bold;
+}
+.option
+{
+    background-color: aqua; 
+}
+
+.list{
+    color: darkred;font-weight: bold;font-style: ;
+}
+
+.img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+
+  .layout
+  /* here i am apply page border,padding etc */
+  {
+    border: 10px solid orangered; border-bottom: 5px dashed blue;padding: 10px;;
+  }
